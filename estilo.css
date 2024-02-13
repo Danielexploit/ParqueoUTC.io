@@ -1,0 +1,113 @@
+/*Para hacer los cambios desde html se escoje siempre class=" xxfs...etc, nombre de lo que vamos a cambiar" si no esta se lo pone*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+.cuadro{
+    height: 45px; /*altura del cuadro para el texto*/
+    width: 1500px; /*ancho del cuadro de texto*/
+    background-color: #007bff; /*color de fondo*/
+    font-family: 'Roboto',sans-serif /*tipo de letra*/
+    
+   
+}
+.container{
+    font-family: 'Roboto',sans-serif /*tipo de letra*/
+}
+.cuadro{
+    font-size: 15px; /*tamaño de fuente*/
+    color: white;  /*color de letra*/
+    font-style: normal; /*estilo de fuente*/
+    /*background-image: url(/Images2/descarga3.png); para poner imagenes*/
+}    
+.form-control{
+display: block;
+width: auto;
+height: 35px;
+font-size: 12px;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.columna1{
+    padding: 15px;
+    margin:0,10,10px;
+}
+.columna2{
+    padding: 15px;
+    margin:0,10,10px
+}
+.btn{
+    border: none;
+}    
+.buscar{
+    height: 33px; /*altura del cuadro para el texto*/
+    width: 495px; /*ancho del cuadro de texto*/
+}    
+.lugar{
+    width: 75px;
+    height: 25px;
+    justify-content: center;
+}
+.container2{
+    font-size: 12px; /*tamaño de fuente*/
+    font-family: 'Roboto',sans-serif /*tipo de letra*/
+}
+.blue{
+   
+    background-color: white;
+    margin: 10,10,10px  
+}
+.dato1{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 200px;
+    background-color:#007bff
+    
+    
+}
+.dato2{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 200px;
+    background-color:#007bff
+}
+.dato3{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 100px;
+    background-color:#007bff
+}
+.dato4{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 100px;
+    background-color:#007bff
+}
+.dato5{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 150px;
+    background-color:#007bff
+}
+.dato6{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 150px;
+    background-color:#007bff
+}    
+.dato7{
+    font-size: 14px;
+    color: white;
+    height: 35px;
+    width: 100px;
+    background-color:#007bff
+}
